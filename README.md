@@ -45,7 +45,7 @@
 
 Star us, and you will receive all release notifications from GitHub without any delay!
 
-<img src="https://i.ibb.co/Pj3Vp9j/1222222.gif" style="width: 100%"/>
+<img src="https://i.ibb.co/mHd9nMH/13.gif" style="width: 100%"/>
 
 ## What is BeeSync
 
