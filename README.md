@@ -6,7 +6,7 @@
     <br>
 </h1>
 <a href="beesync.app">
-    <img alt="Beesync logo" src="https://i.imgur.com/THTHU4P.png" style="width: 100%">
+    <img alt="Beesync logo" src="https://i.imgur.com/jKai3QM.png" style="width: 100%">
 </a>
 <br/>
 <p align="center">
