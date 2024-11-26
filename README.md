@@ -22,7 +22,7 @@
     <a href="BeeSync.app">Home Page</a> |
     <a href="twitter.com/BeeSyncAI">Twitter</a> |
     <a href="t.me/BeeSyncAI">Telegram</a> |
-    <a href="medium.com/@BeeSync">Medium</a> |
+    <a href="https://medium.com/@BeeSync">Medium</a> |
     <a href="https://BeeSync.app">Documentation</a>
 </div>
 <br/>
