@@ -1,11 +1,11 @@
 <div align="center">
 
 <h1 style="border-bottom: none">
-    <b><a href="Beesync.app">BeeSync</a></b><br />
+    <b><a href="https://beesync.app/">BeeSync</a></b><br />
     Write, Draw and Plan All at Once
     <br>
 </h1>
-<a href="beesync.app">
+<a href="https://beesync.app/">
     <img alt="Beesync logo" src="https://i.imgur.com/jKai3QM.png" style="width: 100%">
 </a>
 <br/>
@@ -19,7 +19,7 @@
 <br/>
 
 <div align="center">
-    <a href="BeeSync.app">Home Page</a> |
+    <a href="https://beesync.app/">Home Page</a> |
     <a href="twitter.com/BeeSyncAI">Twitter</a> |
     <a href="t.me/BeeSyncAI">Telegram</a> |
     <a href="https://medium.com/@BeeSync">Medium</a> |
