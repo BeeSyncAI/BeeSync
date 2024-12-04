@@ -1,11 +1,11 @@
 <div align="center">
 
 <h1 style="border-bottom: none">
-    <b><a href="https://beesync.app/">BeeSync</a></b><br />
+    <b><a href="https://beesync.io/">BeeSync</a></b><br />
     Write, Draw and Plan All at Once
     <br>
 </h1>
-<a href="https://beesync.app/">
+<a href="https://beesync.io/">
     <img alt="Beesync logo" src="https://i.imgur.com/jKai3QM.png" style="width: 100%">
 </a>
 <br/>
@@ -19,11 +19,11 @@
 <br/>
 
 <div align="center">
-    <a href="https://beesync.app/">Home Page</a> |
+    <a href="https://beesync.io/">Home Page</a> |
     <a href="https://x.com/BeeSyncAI">Twitter</a> |
     <a href="https://t.me/BeeSyncAI">Telegram</a> |
     <a href="https://medium.com/@BeeSync">Medium</a> |
-    <a href="https://BeeSync.app">Documentation</a>
+    <a href="https://BeeSync.io">Documentation</a>
 </div>
 <br/>
 
@@ -81,14 +81,14 @@ BeeSync is an open-source, all-in-one workspace and an operating system for all 
 
 There is a large overlap of their atomic “building blocks” between these apps. They are not open source, nor do they have a plugin system like Vscode for contributors to customize. We want to have something that contains all the features we love and also goes one step even further.
 
-Thanks for checking us out, we appreciate your interest and sincerely hope that BeeSync resonates with you! 🎵 Checking https://beesync.app/ for more details ions.
+Thanks for checking us out, we appreciate your interest and sincerely hope that BeeSync resonates with you! 🎵 Checking https://beesync.io/ for more details ions.
 
 ## Contributing
 
 | Bug Reports                                                                                                                                         | Feature Requests                                                                                                                                               | Questions                                                       | 
 | --------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| [Create a bug report](https://github.com/beesyncai/beesync/issues/new?assignees=&labels=bug%2Cproduct-review&template=BUG-REPORT.yml&title=TITLE) | [Submit a feature request](https://github.com/havespaceai/havespace/issues/new?assignees=&labels=feat%2Cproduct-review&template=FEATURE-REQUEST.yml&title=TITLE) | [Send us an Email](https://beesync.app) |           |
-| Something isn't working as expected                                                                                                                 | An idea for a new feature, or improvements                                                                                                                     | contact@beesync.app                                                    |
+| [Create a bug report](https://github.com/beesyncai/beesync/issues/new?assignees=&labels=bug%2Cproduct-review&template=BUG-REPORT.yml&title=TITLE) | [Submit a feature request](https://github.com/havespaceai/havespace/issues/new?assignees=&labels=feat%2Cproduct-review&template=FEATURE-REQUEST.yml&title=TITLE) | [Send us an Email](https://beesync.io) |           |
+| Something isn't working as expected                                                                                                                 | An idea for a new feature, or improvements                                                                                                                     | contact@beesync.io                                                    |
 
 Calling all developers, testers, tech writers and more! Contributions of all types are more than welcome, you can read more in [docs/types-of-contributions.md](docs/types-of-contributions.md). If you are interested in contributing code, read our [docs/CONTRIBUTING.md](docs/CONTRIBUTING.md) and feel free to check out our GitHub issues to get stuck in to show us what you’re made of.
 
@@ -98,7 +98,7 @@ For **bug reports**, **feature requests** and other **suggestions** you can also
 
 
 
-If you have questions, you are welcome to contact us. One of the best places to get more info and learn more is in the [BeeSync](https://beesync.app) where you can engage with other like-minded individuals.
+If you have questions, you are welcome to contact us. One of the best places to get more info and learn more is in the [BeeSync](https://beesync.io) where you can engage with other like-minded individuals.
 
 ## Ecosystem
 
@@ -118,7 +118,7 @@ We would like to express our gratitude to all the individuals who have already c
 
 ## Self-Host
 
-Begin with Docker to deploy your own feature-rich, unrestricted version of BeeSync. Our team is diligently updating to the latest version. For more information on how to self-host BeeSync, please refer to our [documentation](https://beesync.app/).
+Begin with Docker to deploy your own feature-rich, unrestricted version of BeeSync. Our team is diligently updating to the latest version. For more information on how to self-host BeeSync, please refer to our [documentation](https://beesync.io/).
 
 ## Hiring
 
@@ -126,7 +126,7 @@ Some amazing companies, including BeeSync, are looking for developers! Are you i
 
 ## Email
 
-For questions and suggestions, please use this email [contact@BeeSync.app]
+For questions and suggestions, please use this email [contact@BeeSync.io]
 
 ## Building
 
